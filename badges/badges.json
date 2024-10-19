@@ -1,0 +1,27 @@
+{
+  "common":[
+    "5 Microgames",
+    "Easy Peaszy"
+  ],
+  "rare":[
+    "10 Microgames"
+  ],
+  "epic":[
+    "30 Microgames"
+  ],
+  "legendary":[
+    "50 Microgames"
+  ],
+  "mythical":[
+    "100 Microgames"
+  ],
+  "exotic": [
+    "150 Microgames"
+  ],
+  "superiour" :[
+    "500 Microgames"
+  ],
+  "supreme":[
+    "1 0 0 0"
+  ]                 
+}
