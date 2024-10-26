@@ -122,6 +122,19 @@
     "cost": 2000,
     "rarity": "Mythical"
   },
+  "slowestSpeed":{
+    "name": "Massive Time Rift",
+    "description": "Greatly Slows Down Gameplay",
+    "effect": {
+      "effectName": "slowspeed",
+      "intensity": 3
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 2255,
+    "rarity": "Mythical"
+  },
 
   "permaLife": {
     "name": "Heart Container",
