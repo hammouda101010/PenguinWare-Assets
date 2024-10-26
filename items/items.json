@@ -53,6 +53,21 @@
     "cost": 500,
     "rarity": "Epic"
   },
+
+  "betterPointsCoupon":{
+    "name": "Better Points Coupon",
+    "description": "Adds +3 Point to Your Final Score. Effect Increases with Difficulty",
+    "effect": {
+      "effectName": "morepoints",
+      "intensity": 3
+    },
+    "stackable": 3,
+    "consumable": true,
+    "limit": null,
+    "cost": 245,
+    "rarity": "Epic"
+  },
+
   "slowSpeed":{
     "name": "Time Rift",
     "description": "Slightly Slows Down Gameplay",
