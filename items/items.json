@@ -95,6 +95,19 @@
     "cost": 1000,
     "rarity": "Legendary"
   },
+  "slowerSpeed":{
+    "name": "Distorted Time Rift",
+    "description": "Slows Down Gameplay",
+    "effect": {
+      "effectName": "slowspeed",
+      "intensity": 2
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 1100,
+    "rarity": "Epic"
+  },
 
   "extraLife++": {
     "name": "Extra Heart++",
@@ -122,5 +135,32 @@
     "limit": null,
     "cost": 5000,
     "rarity": "Exotic"
+  },
+  "hyperPointsCoupon":{
+    "name": "Hyper Points Coupon",
+    "description": "Adds a Permanent +10 Point to Your Final Score. Effect Increases with Difficulty",
+    "effect": {
+      "effectName": "morepoints",
+      "intensity": 10
+    },
+    "stackable": false,
+    "consumable": false,
+    "limit": null,
+    "cost": 10000,
+    "rarity": "Superiour"
+  },
+
+  "joeBlessing":{
+    "name": "Joe's Blessing",
+    "description": "The Most OP Item Ever lol",
+    "effect": {
+      "effectName": "allstats",
+      "intensity": 1
+    },
+    "stackable": false,
+    "consumable": false,
+    "limit": null,
+    "cost": "Achievement/Joe",
+    "rarity": "Supreme"
   }
 }
