@@ -66,6 +66,19 @@
     "cost": 500,
     "rarity": "Epic"
   },
+  "easierBosses":{
+    "name": "Mini-Boss",
+    "description": "Boss Microgames are Easier",
+    "effect": {
+      "effectName": "easierboss",
+      "intensity": 1
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 750,
+    "rarity": "Epic"
+  },
 
   "betterPointsCoupon":{
     "name": "Better Points Coupon",
@@ -175,7 +188,7 @@
     "cost": 10000,
     "rarity": "Superiour"
   },
-  
+
   "joeBlessing":{
     "name": "Joe's Blessing",
     "description": "The Most OP Item Ever lol",
