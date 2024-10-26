@@ -25,6 +25,19 @@
     "cost": 150,
     "rarity": "Rare"
   },
+  "coinProfit":{
+    "name": "Silicoin Profit",
+    "description": "Get 10% More of Your Coins",
+    "effect": {
+      "effectName": "morecoins",
+      "intensity": 10
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 200,
+    "rarity": "Rare"
+  },
 
   "shield": {
     "name": "Forcefield Shield",
