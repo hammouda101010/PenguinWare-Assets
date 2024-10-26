@@ -1,0 +1,111 @@
+{
+  "pointsCoupon":{
+    "name": "Points Coupon",
+    "description": "Adds +1 Point to Your Final Score. Effect Increases with Difficulty",
+    "effect": {
+      "effectName": "morepoints",
+      "intensity": 1
+    },
+    "stackable": 3,
+    "consumable": true,
+    "limit": null,
+    "cost": 10,
+    "rarity": "Common"
+  },
+  "sharpen":{
+    "name": "Sharpend Tools",
+    "description": "Makes Your Tools Sharper",
+    "effect": {
+      "effectName": "sharpentool",
+      "intensity": 1
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 150,
+    "rarity": "Rare"
+  },
+
+  "shield": {
+    "name": "Forcefield Shield",
+    "description": "Protects You Once on a Microgame",
+    "effect": {
+      "effectName": "shield",
+      "intensity": 1
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 400,
+    "rarity": "Epic"
+  },
+
+  "extraLife": {
+    "name": "Extra Heart",
+    "description": "Adds a One-Time Extra Heart",
+    "effect": {
+      "effectName": "extraheart",
+      "intensity": 1
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 500,
+    "rarity": "Epic"
+  },
+  "slowSpeed":{
+    "name": "Time Rift",
+    "description": "Slightly Slows Down Gameplay",
+    "effect": {
+      "effectName": "slowspeed",
+      "intensity": 1
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 550,
+    "rarity": "Epic"
+  },
+
+  "extraLife+": {
+    "name": "Extra Heart+",
+    "description": "Adds Two One-Time Extra Heart",
+    "effect": {
+      "effectName": "extraheart",
+      "intensity": 2
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 1000,
+    "rarity": "Legendary"
+  },
+
+  "extraLife++": {
+    "name": "Extra Heart++",
+    "description": "Adds Three One-Time Extra Heart",
+    "effect": {
+      "effectName": "extraheart",
+      "intensity": 3
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 2000,
+    "rarity": "Mythical"
+  },
+
+  "permaLife": {
+    "name": "Heart Container",
+    "description": "Adds a Life-Time Extra Heart that Doesn't Disappear after Being Broken",
+    "effect": {
+      "effectName": "permaheart",
+      "intensity": 1
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 5000,
+    "rarity": "Exotic"
+  }
+}
