@@ -188,6 +188,19 @@
     "cost": 2255,
     "rarity": "Mythical"
   },
+  "superSharpen":{
+    "name": "Diamond Tools",
+    "description": "Dou You Like my Diamond Sword?",
+    "effect": {
+      "effectName": "sharpentool",
+      "intensity": 3
+    },
+    "stackable": false,
+    "consumable": true,
+    "limit": null,
+    "cost": 3000,
+    "rarity": "Mythical"
+  },
 
   "permaLife": {
     "name": "Heart Container",
