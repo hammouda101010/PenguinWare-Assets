@@ -12,6 +12,20 @@
     "cost": 10,
     "rarity": "Common"
   },
+  
+  "smallStrawberry":{
+    "name": "Small Stawberry",
+    "description": "Adds an x1.5 Multiplier",
+    "effect": {
+      "effectName": "multi",
+      "intensity": 1.5
+    },
+    "stackable": 3,
+    "consumable": true,
+    "limit": null,
+    "cost": 20,
+    "rarity": "Common"
+  },
   "sharpen":{
     "name": "Sharpend Tools",
     "description": "Makes Your Tools Sharper",
@@ -79,7 +93,7 @@
     "cost": 750,
     "rarity": "Epic"
   },
-  
+
   "betterPointsCoupon":{
     "name": "Better Points Coupon",
     "description": "Adds +3 Point to Your Final Score. Effect Increases with Difficulty",
