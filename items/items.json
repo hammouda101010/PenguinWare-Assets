@@ -12,7 +12,6 @@
     "cost": 10,
     "rarity": "Common"
   },
-  
   "smallStrawberry":{
     "name": "Small Stawberry",
     "description": "Adds an x1.5 Multiplier",
@@ -26,6 +25,20 @@
     "cost": 20,
     "rarity": "Common"
   },
+  "strawberry":{
+    "name": "Stawberry",
+    "description": "Adds an x2 Multiplier",
+    "effect": {
+      "effectName": "multi",
+      "intensity": 2
+    },
+    "stackable": 3,
+    "consumable": true,
+    "limit": null,
+    "cost": 40,
+    "rarity": "Common"
+  },
+
   "sharpen":{
     "name": "Sharpend Tools",
     "description": "Makes Your Tools Sharper",
