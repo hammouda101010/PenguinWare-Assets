@@ -79,7 +79,6 @@
     "cost": 400,
     "rarity": "Epic"
   },
-
   "extraLife": {
     "name": "Extra Heart",
     "description": "Adds a One-Time Extra Heart",
@@ -106,7 +105,6 @@
     "cost": 750,
     "rarity": "Epic"
   },
-
   "betterPointsCoupon":{
     "name": "Better Points Coupon",
     "description": "Adds +3 Point to Your Final Score. Effect Increases with Difficulty",
@@ -120,7 +118,6 @@
     "cost": 245,
     "rarity": "Epic"
   },
-
   "slowSpeed":{
     "name": "Time Rift",
     "description": "Slightly Slows Down Gameplay",
@@ -215,6 +212,7 @@
     "cost": 5000,
     "rarity": "Exotic"
   },
+
   "hyperPointsCoupon":{
     "name": "Hyper Points Coupon",
     "description": "Adds a Permanent +10 Point to Your Final Score. Effect Increases with Difficulty",
