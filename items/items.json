@@ -80,7 +80,7 @@
     "rarity": "Epic"
   },
   "extraLife": {
-    "name": "Extra Heart",
+    "name": "Golden Heart",
     "description": "Adds a One-Time Extra Heart",
     "effect": {
       "effectName": "extraheart",
@@ -133,8 +133,8 @@
   },
 
   "extraLife+": {
-    "name": "Extra Heart+",
-    "description": "Adds Two One-Time Extra Heart",
+    "name": "Golden Hearts+",
+    "description": "Adds Two One-Time Extra Hearts",
     "effect": {
       "effectName": "extraheart",
       "intensity": 2
@@ -160,8 +160,8 @@
   },
 
   "extraLife++": {
-    "name": "Extra Heart++",
-    "description": "Adds Three One-Time Extra Heart",
+    "name": "Golden Hearts++",
+    "description": "Adds Three One-Time Extra Hearts",
     "effect": {
       "effectName": "extraheart",
       "intensity": 3
@@ -193,9 +193,9 @@
       "intensity": 3
     },
     "stackable": false,
-    "consumable": true,
-    "limit": null,
-    "cost": 3000,
+    "consumable": false,
+    "limit": 1,
+    "cost": 30000,
     "rarity": "Mythical"
   },
 
@@ -208,7 +208,7 @@
     },
     "stackable": false,
     "consumable": true,
-    "limit": null,
+    "limit": 10,
     "cost": 5000,
     "rarity": "Exotic"
   },
@@ -236,7 +236,7 @@
     },
     "stackable": false,
     "consumable": false,
-    "limit": null,
+    "limit": 1,
     "cost": "Achievement/Joe",
     "rarity": "Supreme"
   }
