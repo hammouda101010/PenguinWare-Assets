@@ -1,3 +1,3 @@
 # PenguinWare Assets
-Assets, Mods, and Projects in PenguinWare.
+Assets, Mods, and Projects in PenguinWare. Now With The Source Code!
 
