@@ -92,6 +92,19 @@
     "cost": 500,
     "rarity": "Epic"
   },
+  "ringOfFire": {
+    "name": "Ring of Fire",
+    "description": "You Earn More Points, but You Randomly Take Fire. 🔥🔥🔥",
+    "effect": {
+      "effectName": "fire",
+      "intensity": 3
+    },
+    "stackable": false,
+    "consumable": false,
+    "limit": 1,
+    "cost": 1100,
+    "rarity": "Epic"
+  },
   "easierBosses":{
     "name": "Mini-Boss",
     "description": "Boss Microgames are Easier",
@@ -133,7 +146,7 @@
   },
 
   "extraLife+": {
-    "name": "Golden Hearts+",
+    "name": "Enchanted Golden Hearts",
     "description": "Adds Two One-Time Extra Hearts",
     "effect": {
       "effectName": "extraheart",
@@ -160,7 +173,7 @@
   },
 
   "extraLife++": {
-    "name": "Golden Hearts++",
+    "name": "Rainbow Hearts",
     "description": "Adds Three One-Time Extra Hearts",
     "effect": {
       "effectName": "extraheart",
